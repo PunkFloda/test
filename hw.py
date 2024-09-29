@@ -1,2 +1,5 @@
-x = input("填写你的名字：")
-print(f'Hello {x}')
+x = input("Введите имя: ")
+if x = 'Алексей':
+    print ('Access denied')
+else
+print (f'Здравствуйте, {x}')
