@@ -1,5 +1,5 @@
 x = input("Введите имя: ")
-if x = 'Екатерина':
-    print ('Good job!')
+if x = 'Алексей':
+    print ('Access denied')
 else
 print (f'Здравствуйте, {x}')
